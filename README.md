@@ -26,3 +26,4 @@ En la segunda parte debemos generar los estilos necesarios para que la página c
 ### Coded by 
 - Katia Itzel Alcocer Aguilar 
 - 0000375093
+https://dsaw-2025-ii.github.io/workshop-let-s-use-html-and-css-Katia-Alcocer/
